@@ -53,13 +53,10 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
 
 ---
 
+![Tampilan Halaman Utama](ss/7.png)
+
 5. **Halaman About**  
    Halaman ini menyediakan informasi tentang tujuan aplikasi, tim pengembang, dan misi utama dari f-Bay Kuliner. Halaman ini dirancang untuk memberikan gambaran singkat mengenai aplikasi kepada pengguna.
-
----
-
-6. **Tampilan Responsif**  
-   Antarmuka aplikasi dirancang agar kompatibel dengan berbagai perangkat, mulai dari desktop hingga smartphone.
 
 ---
 
