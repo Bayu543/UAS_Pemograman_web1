@@ -31,3 +31,17 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang digunakan untuk menampil
      • Edit: Memungkinkan pengguna untuk memperbarui informasi terkait makanan dan minumanan.
 
      • Hapus: Menghapus makanan dan minuman dari daftar.
+
+3. Tambah Data (Add)
+
+     • Pengguna dapat menambahkan makanan atau minuman baru ke daftar.
+
+      • Form input meliputi:
+
+      • Nama makanan atau minuman.
+
+      • Daerah asal.
+
+      • Deskripsi.
+
+      • Gambar (opsional)
