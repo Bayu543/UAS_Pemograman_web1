@@ -8,7 +8,7 @@
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Pemrograman Web 1 |
 
-![Tampilan Halaman Utama](ss/tampilan home.png)
+![Tampilan Halaman Utama](ss/1.png)
 
 # **f-Bay Kuliner**
 
