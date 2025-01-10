@@ -4,10 +4,11 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang digunakan untuk menampil
 Fitur Utama
 1. Daftar Makanan
    Menampilkan daftar makanan tradisional dengan detail:
-   0149Nama makanan: Nama makanan khas daerah.
-Daerah asal: Lokasi asal makanan.
-Deskripsi makanan: Penjelasan singkat tentang makanan, termasuk rasa, tekstur, dan cara penyajian.
-Opsi Edit dan Hapus
+
+  • Nama makanan: Nama makanan khas daerah.
+  • Daerah asal: Lokasi asal makanan.
+  • Deskripsi makanan: Penjelasan singkat tentang makanan, termasuk rasa, tekstur, dan cara penyajian.
+  • Opsi Edit dan Hapus
 
 Edit: Memungkinkan pengguna untuk memperbarui informasi terkait makanan.
 Hapus: Menghapus makanan dari daftar.
