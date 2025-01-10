@@ -26,7 +26,7 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
    - **Daerah Asal**: Lokasi asal makanan/minuman tersebut.  
    - **Deskripsi**: Informasi singkat tentang makanan/minuman, mencakup cita rasa, tekstur, atau proses pembuatannya.  
 
-![Tampilan Halaman Utama](ss/3.png)
+![Tampilan Halaman Utama](ss/5.png)
 
 
 2. **Tambah (Add) Makanan dan Minuman**  
@@ -35,6 +35,9 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
    - Daerah asal.  
    - Deskripsi singkat.  
    - Gambar (opsional).  
+
+![Tampilan Halaman Utama](ss/3.png)
+![Tampilan Halaman Utama](ss/4.png)
 
 3. **Edit Informasi Makanan/Minuman**  
    Pengguna dapat memperbarui informasi makanan/minuman jika ada perubahan data. Klik tombol **Edit** untuk memulai proses.
