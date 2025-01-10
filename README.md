@@ -8,11 +8,7 @@
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Pemrograman Web 1 |
 
-![Tampilan Halaman Utama](ss/1.png)
-
 # 🌟 f-Bay Kuliner 🌟
-
-![Tampilan Halaman Utama](ss/1.png)
 
 f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperkenalkan dan mengelola informasi tentang makanan serta minuman khas dari berbagai daerah di Indonesia. Dengan aplikasi ini, pengguna dapat menelusuri, menambahkan, mengedit, atau menghapus informasi makanan/minuman tradisional, serta memahami lebih dalam tentang keberagaman kuliner Nusantara.
 
@@ -20,14 +16,19 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
 
 ## 🎯 Fitur Utama
 
+![Tampilan Halaman Utama](ss/1.png)
+
+
 1. **Daftar Makanan dan Minuman**  
    Aplikasi menampilkan daftar makanan dan minuman khas dari berbagai daerah di Indonesia. Setiap item yang ditampilkan mencakup informasi berikut:
    - **Nama**: Nama makanan atau minuman khas daerah.  
    - **Daerah Asal**: Lokasi asal makanan/minuman tersebut.  
    - **Deskripsi**: Informasi singkat tentang makanan/minuman, mencakup cita rasa, tekstur, atau proses pembuatannya.  
+
 ---
 
 ![Tampilan Halaman Utama](ss/5.png)
+![Tampilan Halaman Utama](ss/6.png)
 
 
 2. **Tambah (Add) Makanan dan Minuman**  
@@ -35,7 +36,9 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
    - Nama makanan/minuman.  
    - Daerah asal.  
    - Deskripsi singkat.  
-   - Gambar (opsional).  
+   - Gambar (opsional).
+
+---
 
 ![Tampilan Halaman Utama](ss/3.png)
 ![Tampilan Halaman Utama](ss/4.png)
@@ -43,11 +46,17 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
 3. **Edit Informasi Makanan/Minuman**  
    Pengguna dapat memperbarui informasi makanan/minuman jika ada perubahan data. Klik tombol **Edit** untuk memulai proses.
 
+---
+
 4. **Hapus Data Makanan/Minuman**  
    Pengguna dapat menghapus item dari daftar dengan mengklik tombol **Hapus**.
 
+---
+
 5. **Halaman About**  
    Halaman ini menyediakan informasi tentang tujuan aplikasi, tim pengembang, dan misi utama dari f-Bay Kuliner. Halaman ini dirancang untuk memberikan gambaran singkat mengenai aplikasi kepada pengguna.
+
+---
 
 6. **Tampilan Responsif**  
    Antarmuka aplikasi dirancang agar kompatibel dengan berbagai perangkat, mulai dari desktop hingga smartphone.
