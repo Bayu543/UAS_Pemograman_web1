@@ -8,11 +8,11 @@
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Pemrograman Web 1 |
 
-# **f-Bay Kuliner**
-
 ![Tampilan Halaman Utama](ss/1.png)
 
 # 🌟 f-Bay Kuliner 🌟
+
+![Tampilan Halaman Utama](ss/1.png)
 
 f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperkenalkan dan mengelola informasi tentang makanan serta minuman khas dari berbagai daerah di Indonesia. Dengan aplikasi ini, pengguna dapat menelusuri, menambahkan, mengedit, atau menghapus informasi makanan/minuman tradisional, serta memahami lebih dalam tentang keberagaman kuliner Nusantara.
 
@@ -25,6 +25,7 @@ f-Bay Kuliner adalah sebuah aplikasi web sederhana yang bertujuan untuk memperke
    - **Nama**: Nama makanan atau minuman khas daerah.  
    - **Daerah Asal**: Lokasi asal makanan/minuman tersebut.  
    - **Deskripsi**: Informasi singkat tentang makanan/minuman, mencakup cita rasa, tekstur, atau proses pembuatannya.  
+---
 
 ![Tampilan Halaman Utama](ss/5.png)
 
