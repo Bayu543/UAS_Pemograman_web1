@@ -2,19 +2,19 @@ f-Bay Kuliner
 f-Bay Kuliner adalah sebuah aplikasi web sederhana yang digunakan untuk menampilkan daftar makanan tradisional dari berbagai daerah di Indonesia. Pengguna dapat melihat deskripsi singkat mengenai makanan, serta memiliki opsi untuk mengedit atau menghapus informasi makanan.
 
 **Fitur Utama**
-1. Daftar Makanan
-   Menampilkan daftar makanan tradisional dengan detail:
+1. Daftar Makanan dan Minuman
+   Menampilkan daftar makanan dan minuman tradisional dengan detail:
 
-     • Nama makanan: Nama makanan khas daerah.
+     • Nama makanan dan minuman : Nama makanan dan minuman khas daerah.
   
      • Daerah asal: Lokasi asal makanan.
   
-     • Deskripsi makanan: Penjelasan singkat tentang makanan, termasuk rasa, tekstur, dan cara penyajian.
+     • Deskripsi makanan dan minuman : Penjelasan singkat tentang makanan dan minuman, termasuk rasa, tekstur, dan cara penyajian.
   
      • Opsi Edit dan Hapus
 
 2. Opsi Edit dan Hapus
 
-     • Edit: Memungkinkan pengguna untuk memperbarui informasi terkait makanan.
+     • Edit: Memungkinkan pengguna untuk memperbarui informasi terkait makanan dan minumanan.
 
-     • Hapus: Menghapus makanan dari daftar.
+     • Hapus: Menghapus makanan dan minuman dari daftar.
