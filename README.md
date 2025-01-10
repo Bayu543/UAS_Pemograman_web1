@@ -6,8 +6,11 @@ Fitur Utama
    Menampilkan daftar makanan tradisional dengan detail:
 
   • Nama makanan: Nama makanan khas daerah.
+  
   • Daerah asal: Lokasi asal makanan.
+  
   • Deskripsi makanan: Penjelasan singkat tentang makanan, termasuk rasa, tekstur, dan cara penyajian.
+  
   • Opsi Edit dan Hapus
 
 Edit: Memungkinkan pengguna untuk memperbarui informasi terkait makanan.
